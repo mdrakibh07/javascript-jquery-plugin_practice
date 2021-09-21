@@ -1,0 +1,7 @@
+How to use Mixitup 3 Javascript Plugin (Bangla Tutorial)
+https://www.youtube.com/watch?v=t0iBtwYZmxQ
+
+
+Mixitup link:
+https://www.kunkalabs.com/mixitup/docs/get-started/
+https://github.com/patrickkunka/mixitup/
