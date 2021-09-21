@@ -1,0 +1,144 @@
+/*Extra small devices (portrait phones,less than 576px) */
+@media (max-width: 575.98px) {
+  /* Nav minimize */
+  .navbar-nav {
+    padding-left: 67%;
+    padding-top: 8px;
+  }
+  .menu ul li a {
+    font-size: 17px !important;
+  }
+  .content_section {
+    left: 0%;
+    width: 100%;
+    text-align: center;
+    top: -2%;
+  }
+  .content_section h1 {
+    font-size: 24px;
+  }
+  .content_section h3 {
+    font-size: 18px;
+    margin-top: 13px;
+    margin-bottom: 10px;
+  }
+  .content_section p {
+    font-size: 14px;
+  }
+  .imges_box {
+    width: 70%;
+    margin-top: 94% !important;
+    margin-right: 12%;
+  }
+  .icon_bottom ul li a {
+    font-size: 22px;
+    margin-right: 20px;
+  }
+  .icon_bottom ul {
+    padding-left: 94px;
+    margin-top: -2%;
+  }
+  /* carousel-indicators */
+  .carousel-indicators [data-bs-target] {
+    width: 12px;
+    margin-right: 6px;
+    margin-left: 21px;
+    height: 12px;
+  }
+}
+
+/* Small devices (landscape phones,and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+  /* Nav minimize */
+  .navbar-nav {
+    padding-left: 82%;
+    padding-top: 11px;
+  }
+  .menu ul li a {
+    font-size: 19px !important;
+  }
+  .imges_box {
+    width: 32%;
+    margin-right: 2%;
+  }
+
+  .single_img {
+    margin-bottom: 55%;
+  }
+  /* content_section */
+  .content_section {
+    left: 0%;
+    width: 65%;
+    top: 2%;
+  }
+  .content_section h1 {
+    font-size: 24px;
+  }
+  .content_section h3 {
+    font-size: 18px;
+    margin-top: 14px;
+    margin-bottom: 14px;
+  }
+  .content_section P {
+    font-size: 15px;
+  }
+
+  .icon_bottom ul li a {
+    font-size: 32px;
+  }
+
+  /* carousel-indicators */
+  .carousel-indicators {
+    bottom: 1px;
+    left: -6px;
+  }
+  .carousel-indicators [data-bs-target] {
+    width: 12px;
+    height: 14px;
+  }
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+  /* Nav minimize */
+  .navbar-nav {
+    padding-left: 86%;
+    padding-top: 11px;
+  }
+  /* content_section */
+  .content_section {
+    left: 1%;
+    width: 50%;
+    top: 4%;
+  }
+  .content_section h3 {
+    margin-top: 12px;
+    margin-bottom: 12px;
+  }
+  .content_section h1 {
+    font-size: 30px;
+  }
+  .content_section h3 {
+    font-size: 18px;
+  }
+  .content_section P {
+    font-size: 14px;
+  }
+  /* carousel-indicators */
+  .carousel-indicators {
+    bottom: 12px;
+    left: -6px;
+  }
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+}
+
+/*X-Large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+}
+
+/*XX-Large devices (larger desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+}
